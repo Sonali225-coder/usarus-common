@@ -1,0 +1,16 @@
+{
+    "name": "sonali/usarus-common",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Sonali\\UsarusCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Usarus"
+        }
+    ],
+    "require": {}
+}
